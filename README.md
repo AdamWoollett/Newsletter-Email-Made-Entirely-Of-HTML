@@ -9,5 +9,5 @@ HTML5
 
 ## Project Structure
 Newsletter-Email-Made-Entirely-Of-HTML/<br />
-├─README.md
-└─index.html/<br/>
+├─README.md<br/>
+└─index.html<br/>
