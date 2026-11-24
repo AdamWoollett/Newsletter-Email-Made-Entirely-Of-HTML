@@ -11,5 +11,5 @@ HTML5
 ```
 Newsletter-Email-Made-Entirely-Of-HTML/
 ├─README.md
-└─index.html
+└─index.html      # Landing page.
 ```
