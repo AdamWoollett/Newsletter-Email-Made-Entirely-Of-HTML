@@ -8,6 +8,8 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 HTML5
 
 ## Project Structure
+```
 Newsletter-Email-Made-Entirely-Of-HTML/<br />
 ├─README.md<br/>
 └─index.html<br/>
+```
